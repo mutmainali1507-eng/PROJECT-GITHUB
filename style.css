@@ -10,7 +10,6 @@ body {
     padding: 20px;
 }
 
-/* Navbar */
 nav {
     display: flex;
     align-items: center;
@@ -23,14 +22,12 @@ nav {
     box-shadow: 0 4px 20px rgba(79, 70, 229, 0.08);
 }
 
-/* Logo */
 .logo {
     font-size: 24px;
     font-weight: bold;
     color: #4d96ff;
 }
 
-/* Menu */
 nav ul {
     display: flex;
     list-style: none;
@@ -44,19 +41,16 @@ nav ul li a {
     border-radius: 25px;
 }
 
-/* Menu saat diarahkan mouse */
 nav ul li a:hover {
     color: #4d96ff;
     background-color: #f0edff;
 }
 
-/* Menu yang sedang aktif */
 nav ul li a.active {
     color: #7b61ff;
     background-color: #f0edff;
 }
 
-/* Tombol */
 .tombol {
     text-decoration: none;
     color: white;
