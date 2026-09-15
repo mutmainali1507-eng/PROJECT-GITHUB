@@ -7,7 +7,7 @@
 body {
     background-color: #f7f7fc;
     font-family: Arial, sans-serif;
-    padding: 20px;
+    padding: 25 px;
 }
 
 nav {
@@ -16,7 +16,7 @@ nav {
     justify-content: space-between;
 
     background-color: white;
-    padding: 12px 30px;
+    padding: 15px 20px;
 
     border-radius: 20px;
     box-shadow: 0 4px 20px rgba(79, 70, 229, 0.08);
@@ -46,7 +46,7 @@ nav ul li a:hover {
     background-color: #f0edff;
 }
 
-nav ul li a.active {
+nav ul li a.active :hopper{
     color: #7b61ff;
     background-color: #f0edff;
 }
